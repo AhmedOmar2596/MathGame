@@ -268,6 +268,10 @@ int main()
 	//Seeds the random number generator in C++, called only once
 	srand((unsigned)time(NULL));
 
+
+	cout << "Welcome to my small project \n";
+	cout << "This project done by the help of Mohamed Abo-Hadhod";
+
 	StartGame();
 	int a = 0;
 
